@@ -12,7 +12,8 @@
 ## favorite pigeons
 1. german owl
 2. satinette
-3. mourning dove\
+3. mourning dove
+
 ---
 ## good code
 what is `public static void main(String[] args)`?
