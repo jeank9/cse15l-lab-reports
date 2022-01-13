@@ -1,6 +1,6 @@
 ## markdown madness
 **pigeon < o ,,**
-*wow* here is a [pigeon video](https://www.youtube.com/watch?v=u8QaavobKa0)
+*wow* here is a [pigeon video](https://www.youtube.com/watch?v=u8QaavobKa0)\
 **beautiful.**
 
 # pigeonhole principle
