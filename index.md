@@ -16,7 +16,7 @@
 3. mourning dove
 
 ## good code
-what is `public static void main(String[] args)?`\
+what is `public static void main(String[] args)?`
 * something scary
 * what is that
 
