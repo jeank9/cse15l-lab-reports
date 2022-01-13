@@ -1,4 +1,7 @@
 # markdown madness
+
+*([fun](https://jeanniekim.github.io/cse15l-lab-reports/fun.html))*
+
 **pigeon < o ,,**
 *wow* here is a [pigeon video](https://www.youtube.com/watch?v=u8QaavobKa0)\
 **beautiful.**
