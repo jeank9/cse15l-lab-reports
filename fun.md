@@ -3,4 +3,4 @@ wooooooooooooooo woo!
 
 ## screenshot w/ dog:
 
-![Image](assets/images/dogshot.png)
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/raw/main/assets/images/dogshot.png)
