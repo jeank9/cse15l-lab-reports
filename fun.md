@@ -3,4 +3,4 @@ wooooooooooooooo woo!
 
 ## screenshot w/ dog:
 
-![Image](dogshot.png)
+![Image](assets/images/dogshot.png)
