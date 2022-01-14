@@ -18,3 +18,13 @@ homepage ideas:
 other things that could be cool:
     - edit/post time tracker
         ○ blogs always have a timestamp of when posted
+
+to do:
+    - revamp index.md
+    - create blog post...
+
+to fix:
+    - dog won't load :{
+    - < o ,, has underscore
+    - lowercase header/footers
+    
