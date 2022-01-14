@@ -57,7 +57,7 @@ Fun notes:
 - `ssh cs...@ieng6.ucsd.edu javac Fun.java`
     - connects, runs command, exits
     - *can only run one command by default*
-- `ssh cs...@ieng6.ucsd.edu "javac Fun.java java Fun"`
+- `ssh cs...@ieng6.ucsd.edu "javac Fun.java; java Fun"`
     - "quotation marks" allow you to run multiple commands in one line
 
 ## Trying Some Commands
