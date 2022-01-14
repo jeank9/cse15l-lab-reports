@@ -15,7 +15,7 @@ Use the website: [https://code.visualstudio.com/](https://code.visualstudio.com/
 
 How it should look:
 
-VSCODE
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab1/vscode.png?raw=true)
 
 > I had VScode already installed, so I skipped this step!
 
@@ -45,7 +45,7 @@ Enter password!
 
 Should look like this:
 
-TERMINAL
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab1/terminal.png?raw=true)
 
 To exit:
 - `exit` or CTRL+D
@@ -69,9 +69,10 @@ An example I tried: `ls <directory>`
 
 Here's what happened:
 
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab1/trying.png?raw=true)
+
 > I tried to access someone else's files. I couldn't. That's probably good.
 
-TRYING
 
 ## Moving Files with `scp`
 
@@ -101,7 +102,7 @@ Now you can run `javac` and `java` on the ieng6 computer! :00
 
 Should look like:
 
-SSHSCP
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab1/sshscp.png?raw=true)
 
 >note: I ran two commands at once using the semicolon `;` !
 
@@ -135,7 +136,7 @@ This creates the private key (in `id_rsa`) and the public key (in `id_rsa.pub`),
         - where to copy the public key
     - run `scp /Users/[username]/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys`*
 
-KEYS
+![Images](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab1/keys.png?raw=true)
 
 > The timing experiment took 45 seconds. 1 minute and 15 seconds were saved per run. 
 
@@ -156,5 +157,6 @@ This makes use of:
 - running multiple commands in one go by using `;`
 - running multiple commands in the same line as `ssh` by using `;` and `""`
 
+![Images](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab1/optimize.png?raw=true)
 > This entire process, when coupled with using the up arrow, now takes only around 4 seconds!
 
