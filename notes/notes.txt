@@ -3,3 +3,7 @@ can't use "<" in html
 
 relative links don't work in actual website
     - must use raw github URL link
+
+page skips
+    - ex. [Link Name](##installing-VScode)
+        spaces become "-"

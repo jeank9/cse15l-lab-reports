@@ -3,13 +3,15 @@ fun devlogs/notes for my own use
 <<1/14/22>>
 
 page skips:
-	- from the URL, seems to occur with a hyperlink
+	- from the URL, seems to occur with a hyperlink DONE
 		○ …site/#header ???
             - [Link](#header) ?
-		○ kind of makes html sense
+		○ kind of makes html sense 
 	- could be useful for (long) blog post
 		○ need table of contents w/all the links (how)
 		○ maybe just send them back to the top?
+
+
 
 homepage ideas:
     - funny gif
@@ -20,11 +22,12 @@ other things that could be cool:
         ○ blogs always have a timestamp of when posted
 
 to do:
-    - revamp index.md
-    - create blog post...
+    - revamp index.md DONE
+    - create blog post... DONE
 
 to fix:
-    - dog won't load :{
-    - < o ,, has underscore
-    - lowercase header/footers
+    - dog won't load :{ DONE
+        - relative links don't work? O
+    - < o ,, has underscore DONE
+    - lowercase header/footers DONE
     
