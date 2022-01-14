@@ -30,4 +30,9 @@ to fix:
         - relative links don't work? O
     - < o ,, has underscore DONE
     - lowercase header/footers DONE
-    
+
+
+1/14/22
+
+attempted to make title clickable and it IS.
+        <h1 class="header"><a class="site title" href="{{ site.github.url }}">{{ site.title | default: site.github.repository_name }} </a> </h1>
