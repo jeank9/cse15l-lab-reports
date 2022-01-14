@@ -1,10 +1,4 @@
-[![alt text][image]][hyperlink]
-
-[hyperlink]: madness.md 
-[image]:
-https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/pigeontype.gif?raw=true
-(me) 
-
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/pigeontype.gif?raw=true) ![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/pigeontype.gif?raw=true) ![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/pigeontype.gif?raw=true)[.](madness.md)
 
 # [posts]
 

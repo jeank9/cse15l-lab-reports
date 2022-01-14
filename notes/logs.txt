@@ -32,7 +32,19 @@ to fix:
     - lowercase header/footers DONE
 
 
-1/14/22
+<<1/14/22>>
 
 attempted to make title clickable and it IS.
         <h1 class="header"><a class="site title" href="{{ site.github.url }}">{{ site.title | default: site.github.repository_name }} </a> </h1>
+
+clickable creatures?
+    - some way to access old pages (madness, fun)
+    [![alt text][image]][hyperlink]
+
+    [hyperlink]: madness.md 
+    [image]:
+    https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/pigeontype.gif?raw=true
+    (me) 
+
+    works in preview, doesn't work on actual site :{
+        - preview is not necessarily what it'll actually look like
