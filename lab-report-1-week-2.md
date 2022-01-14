@@ -1,5 +1,3 @@
-[home](index.md)
-
 # lab report 1
 
 (Instructions from [here](https://ucsd-cse15l-w22.github.io/week/week1/#lab-tasks).)
