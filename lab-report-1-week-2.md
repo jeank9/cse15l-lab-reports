@@ -1,5 +1,7 @@
-# lab report 1
+# lab report 1 [week 2]
 
+Due: 1/14/2022  
+### **How to log into a course-specific account on `ieng6`**
 (Instructions from [here](https://ucsd-cse15l-w22.github.io/week/week1/#lab-tasks).)
 
 > [Installing VScode](##Installing-VScode)\
