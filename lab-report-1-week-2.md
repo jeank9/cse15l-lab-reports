@@ -27,7 +27,7 @@ On Windows: Install OpenSSH (or check that it's installed)
     - Settings > Apps > Apps & Features --> Optional Features
 
 
-Look up course-specific account here: [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
+Look up course-specific account [here](https://sdacs.ucsd.edu/~icc/index.php)
 - For CSE 15L, something like `cse15lwi22zzz@ieng6.ucsd.edu`
 - **Reset password**
 
@@ -160,5 +160,11 @@ This makes use of:
 - running multiple commands in the same line as `ssh` by using `;` and `""`
 
 ![Images](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab1/optimize.png?raw=true)
-> This entire process, when coupled with using the up arrow, now takes only around 4 seconds!
+
+Minimum keystroke count:
+* Up arrow, up arrow, enter, up arrow, enter
+* Only takes **five** keystrokes!
+
+This entire process now takes only around 4 seconds!
+
 
