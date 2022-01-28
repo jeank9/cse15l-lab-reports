@@ -3,3 +3,4 @@
 # [posts]
 
 ## * [lab 1](labs/lab-report-1-week-2.md) (week 2)
+## * [lab 2](labs/lab-report-2-week-4.md) (week 4)
