@@ -9,18 +9,18 @@ Due: 1/28/2022
 
 ## #1
 
-Code change diff:
+**Code change diff:**
 ![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab2/1diff.png?raw=true)
 
-Failure-inducing input - the test file that prompted the change
+**Failure-inducing input:** - the test file that prompted the change
 - [test-file3.md](https://github.com/jeanniekim/markdown-parse/blob/4922bc11db4e619c447407af78687cc35670972d/test-file3.md)
     - contains `"[]"` with no `"()"` following it.
 
-Symptom of failure-inducing input
+**Symptom of failure-inducing input**
 ![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab2/1sym.png?raw=true)
 > ...an IndexOutOfBoundsError, specifically for the last index.
 
-Relationship between bug, symptom, and failure-inducing input:
+**Relationship between bug, symptom, and failure-inducing input:**
 - The *bug* was in the basic algorithm, which tries to get the index of `"("` when it finds `"]"`
     > Assumes `"("` even exists in the file
 - This caused the *symptom*, the `IndexOutOfBoundsError`, because it tried to get the indexOf `"("`
@@ -31,17 +31,17 @@ The fix: We rewrote the algorithm from scratch using a group member's idea. This
 
 ## #2
 
-Code change diff:
+**Code change diff:**
 ![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab2/2diff.png?raw=true)
 
-Failure-inducing input
+**Failure-inducing input:**
 - [test-break.md](https://github.com/jeanniekim/markdown-parse/blob/354ff4a33583a6f2482de2444276d8254e7ee844/test-break.md)
     - contains: `"](what"`
 
-Symptom of failure-inducing input:
+**Symptom of failure-inducing input:**
 ![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab2/2sym.png?raw=true)
 
-Relationship between bug, symptom, and failure-inducing input
+**Relationship between bug, symptom, and failure-inducing input**
 - The *bug* was that the code, for every `"("` preceded by a `"["`, tries to get the indexOf `")"`
     > Assumes a `")"` exists if a `"]("` exists, which isn't always true
 - The *symptom* was the `IndexOutOfBoundsError` with a `-1` as its end index (`")"` couldn't be found)
@@ -52,20 +52,20 @@ The fix: I modified the code to include a **try-catch** block that tries to get 
 
 ## #3
 
-Code change diff:
+**Code change diff:**
 ![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab2/3diff.png?raw=true)
 
-Failure-inducing input - the test file that prompted the change
+**Failure-inducing input:**
 - [test-break2.md](https://github.com/jeanniekim/markdown-parse/blob/354ff4a33583a6f2482de2444276d8254e7ee844/test-break2.md)
     - contains `"](what [link](yes.com)"`
     - expected output: `[yes.com]`
 
-Symptom of failure-inducing input:
+**Symptom of failure-inducing input:**
 ![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab2/3sym.png?raw=true)
 
 > Output link seems to be `"what [link](yes.com"` instead of `"yes.com"`.
 
-Relationship between bug, symptom, and failure-inducing input
+**Relationship between bug, symptom, and failure-inducing input**
 - The *bug* is that the code is parses everything from the first valid `"("` it sees to the next `")"` as a link, regardless of its contents
     
 - The *symptom*, a clearly invalid link output, results from this bug
