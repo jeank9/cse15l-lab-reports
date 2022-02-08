@@ -168,3 +168,15 @@ Minimum keystroke count:
 This entire process now takes only around 4 seconds!
 
 
+## Cool extended stuff
+You can log into your school `ieng6` account using `ssh username@ieng6` and even specify which computer with `ssh username@ieng6-202`.
+
+For a programming assignment, I was able to work on the lab computers by `scp`ing into the same computer.
+
+"Pushing" (from laptop):
+-  `scp -r .\FolderName username@ieng6.ucsd.edu:~`
+    - the  `.\FolderName` is the directory you're copying from
+
+"Pulling" (from lab computer):
+-  `scp -r username@ieng6.ucsd.edu:~/FolderName ~/Documents`
+    - `~/Documents` can be whatever directory you want to copy to
