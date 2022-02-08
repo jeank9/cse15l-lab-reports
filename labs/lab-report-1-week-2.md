@@ -180,3 +180,5 @@ For a programming assignment, I was able to work on the lab computers by `scp`in
 "Pulling" (from lab computer):
 -  `scp -r username@ieng6.ucsd.edu:~/FolderName ~/Documents`
     - `~/Documents` can be whatever directory you want to copy to
+
+NOTE: When pushing/pulling from either computer, remember that *linux directories use `/`, while Windows directories use `\`*
