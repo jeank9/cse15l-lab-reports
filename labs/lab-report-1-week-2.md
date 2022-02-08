@@ -182,3 +182,22 @@ For a programming assignment, I was able to work on the lab computers by `scp`in
     - `~/Documents` can be whatever directory you want to copy to
 
 NOTE: When pushing/pulling from either computer, remember that *linux directories use `/`, while Windows directories use `\`*
+
+... **Wait a second.**
+
+"Pushing" a file from my laptop to ieng6 makes it automatically show up on the lab computer. WTF
+- What does this mean?
+
+The lab computer **is ieng6-202.** 
+
+- You don't need to "push" from the lab computer to update changes.
+- You don't need to "pull" from ieng6 to the lab computer.
+
+## Updated process:
+
+"Pushing" (from laptop):
+-  `scp -r .\FolderName username@ieng6.ucsd.edu:~`
+    - the  `.\FolderName` is the directory you're copying from
+
+Work as needed on lab computer. After working, "pull" the final files (from laptop):
+- `scp -r jlk004@ieng6.ucsd.edu:.\Midterm .`
