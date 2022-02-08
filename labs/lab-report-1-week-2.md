@@ -201,3 +201,5 @@ The lab computer **is ieng6-202.**
 
 Work as needed on lab computer. After working, "pull" the final files (from laptop):
 - `scp -r jlk004@ieng6.ucsd.edu:.\Midterm .`
+    - the `.\Midterm` is the directory on ieng6 you're trying to pull from
+    - the final `.` is the directory you're trying to pull to
