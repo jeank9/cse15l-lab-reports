@@ -65,4 +65,4 @@ You can also `scp` using the new alias:
 ```
 $ scp [file] [alias]:~
 ```
-This working: ![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab3/scpfile.png?raw=true)
+This working; I `ls` into the server's root directory to show that the file has been successfully copied: ![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab3/scpfile.png?raw=true)
