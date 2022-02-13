@@ -1,4 +1,4 @@
-# Setting up `ssh` for new ieng6 logins
+# Setting up ssh for new ieng6 logins
 We have the `ssh` for CSE 15L set up... but we also need to `ssh` into ieng6 using other classes' logins!
 
 
