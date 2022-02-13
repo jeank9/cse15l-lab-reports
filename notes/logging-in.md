@@ -1,5 +1,8 @@
 # Setting up `ssh` for new ieng6 logins
-For other classes with other logins (I had to do this for CSE 12)
+We have the `ssh` for CSE 15L set up... but we also need to `ssh` into ieng6 using other classes' logins!
+
+
+(I had to do this for CSE 12)
 
 - Use the keys you generated for CSE 15L! (no need to keygen)
     - id_rsa
