@@ -35,19 +35,19 @@ Using the VSCode preview:
     - "code]" that links to 'ucsd.edu'
 
 Added test:
-![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/1testcode.png?raw=true)
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/1testcode.PNG?raw=true)
 
 **My group's implementation**
 
 Test output:
-![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/1testresultConnor.png?raw=true)
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/1testresultConnor.PNG?raw=true)
 
 
 
 **Other group's implementation**
 
 Test output:
-![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/1testresultOther.png?raw=true)
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/1testresultOther.PNG?raw=true)
 
 ## Snippet 2
 ```
@@ -71,19 +71,19 @@ Using the VSCode preview:
     - "some escaped [ brackets ]" that links to 'example.com'
 
 Added test:
-![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/2testcode.png?raw=true)
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/2testcode.PNG?raw=true)
 
 **My group's implementation**
 
 Test output:
-![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/2testresultConnor.png?raw=true)
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/2testresultConnor.PNG?raw=true)
 
 
 
 **Other group's implementation**
 
 Test output:
-![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/2testresultOther.png?raw=true)
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/2testresultOther.PNG?raw=true)
 
 
 
@@ -128,19 +128,19 @@ What should `MarkdownParse.java` output for this file?
 
 
 Added test:
-![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/3testcode.png?raw=true)
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/3testcode.PNG?raw=true)
 
 **My group's implementation**
 
 Test output:
-![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/3testresultConnor.png?raw=true)
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/3testresultConnor.PNG?raw=true)
 
 
 
 **Other group's implementation**
 
 Test output:
-![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/3testresultOther.png?raw=true)
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab4/3testresultOther.PNG?raw=true)
 
 
 ## Possible fixes
