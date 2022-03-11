@@ -6,6 +6,7 @@
 ## * [lab 2](labs/lab-report-2-week-4.md) (week 4)
 ## * [lab 3](labs/lab-report-3-week-6.md) (week 6)
 ## * [lab 4](labs/lab-report-4-week-8.md) (week 8)
+## * [lab 5](labs/lab-report-5-week-10.md) (week 10)
 
 # [additional notes]
 ## * [*ssh*ing using new logins](notes/logging-in.md)
