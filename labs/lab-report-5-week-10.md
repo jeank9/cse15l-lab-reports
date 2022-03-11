@@ -150,10 +150,10 @@ The group's returned `/my uri`, which is not a valid link. To identify that this
 
 In addition, the invalid link has a space in it, which is another case that could eliminate a possible link.
 - This is notably how Joe's implementation seems to account for this:
-![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab5/file1joe.PNG?raw=true)
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab5/file1joe.png?raw=true)
 
 This fix could take place here in the code by adding an if statement:
-![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab5/file1connor.PNG?raw=true)
+![Image](https://github.com/jeanniekim/cse15l-lab-reports/blob/main/assets/images/lab5/file1connor.png?raw=true)
 
 ### File 2 (`567.md`):
 
